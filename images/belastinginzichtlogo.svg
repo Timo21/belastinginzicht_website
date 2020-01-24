@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80.07592mm"
+   height="14.438608mm"
+   viewBox="0 0 283.73358 51.160422"
+   id="svg4469"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Belastinginzichtlogo2.svg">
+  <defs
+     id="defs4471" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="121.18273"
+     inkscape:cy="24.915256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4474">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-167.57822,-155.27847)">
+    <rect
+       style="fill:#64c8e9;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:1.25, 2.5;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4197"
+       width="283.73358"
+       height="51.160423"
+       x="167.57822"
+       y="155.27847" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 185.12591,160.47726 a 13.031536,12.536667 0 0 0 -13.03135,12.53699 13.031536,12.536667 0 0 0 13.03135,12.53654 13.031536,12.536667 0 0 0 4.49608,-0.78664 l 8.40446,12.32951 2.63143,-1.79745 -8.14825,-11.95423 a 13.031536,12.536667 0 0 0 5.64762,-10.32773 13.031536,12.536667 0 0 0 -13.03134,-12.53699 z m 0,1.84976 a 10.687275,10.687275 0 0 1 10.68722,10.68723 10.687275,10.687275 0 0 1 -10.68722,10.68722 10.687275,10.687275 0 0 1 -10.68723,-10.68722 10.687275,10.687275 0 0 1 10.68723,-10.68723 z"
+       id="path8411" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.28832436px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="167.33176"
+       y="190.92078"
+       id="text13094"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0651376,0.93884584)"><tspan
+         sodipodi:role="line"
+         id="tspan13096"
+         x="167.33176"
+         y="190.92078"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nirmala UI';-inkscape-font-specification:'Nirmala UI Bold'">€</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:80.31797028px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="206.26204"
+       y="196.79427"
+       id="text13100"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan13102"
+         x="206.26204"
+         y="196.79427"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.35698509px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#ffffff;fill-opacity:1">Belastinginzicht.nl</tspan></text>
+  </g>
+</svg>

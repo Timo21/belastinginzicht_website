@@ -1,0 +1,64 @@
+<section id="loon">
+    <div class="container">
+      <div class="center wow fadeInDown">
+        <div ng-controller = "PlotCtrlr">
+          <p class = "lead">
+          Deze website rekent met je bruto jaarsalaris, dat is het salaris zonder aftrek van belastingen.
+          Dit is over het algemeen simpelweg 12 (maanden) * je bruto maandsalaris dat in je contract vermeld staat.
+          Officieel valt hier ook vakantiegeld, een 13e maand en een bonus onder.
+          Als je dat wilt meenemen in de berekeningen op deze website tel het dan bij je brutojaarsalaris op.
+          </p>
+          <div class="input-div">
+            <label for="loon-input"> Wat is je brutojaarsalaris? </label>
+            <div class="flex">
+              <span class="currency">€</span>
+              <input id="loon-input" type="text" ng-model='brutojaarsalaris_loon'>
+            </div>
+          </div>
+          <loon-waterval width=1200, height = 600></loon-waterval>
+        </div>
+        <p class="loon-opening">
+        Onderstaande begrippen zijn belangrijk voor loon:
+        </p>
+        <p class="lead">
+        <ul>
+          <li>
+          <strong> Bruto jaarsalaris </strong>. Bruto wil zeggen het salaris zonder aftrek van belastingen.
+          Dit is over het algemeen simpelweg 12 (maanden) * je bruto maandsalaris dat in je contract vermeld staat.
+          Officieel valt hier ook vakantiegeld, een 13e maand en een bonus onder. Als je dat wilt meenemen in de berekeningen op deze website
+          tel het dan bij je brutojaarsalaris op. <br /> <br />
+          </li>
+          <li>
+          <strong>Loonheffing</strong>: dit wordt ingehouden van je bruto salaris. Het bestaat uit loonbelasting en premie voor verplichte volksverzekeringen.
+          Het is het geld dat ingehouden wordt op je bruto loon, maar je krijgt hier nog kortingen (zie de volgende twee begrippen)
+          op dus het is niet het bedrag dat op de loonstrook vaak met "heffingen" aangeduid staat.
+          De loonheffingschalen voor 2017 en 2018 vind je
+          <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/inkomstenbelasting/heffingskortingen_boxen_tarieven/boxen_en_tarieven/overzicht_tarieven_en_schijven/" target="_blank">
+            hier
+          </a>. <br /> <br />
+          </li>
+          <li>
+          <strong>Algemene Heffingskorting</strong>: iedereen in Nederland die inkomstenbelasting betaalt heeft recht op loonheffingskorting.
+          De algemene heffingskorting kan zelfs uitbetaald worden als u minder inkomsten hebt dan korting. De overheid is deze uitbetalingen echter aan het afbouwen.
+          De algemene heffingskorting schalen voor 2017 en 2018 vind je
+          <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/inkomstenbelasting/heffingskortingen_boxen_tarieven/heffingskortingen/algemene_heffingskorting/algemene_heffingskorting" target="_blank">hier</a>. <br /> <br />
+          </li>
+          <li>
+          <strong>Arbeidskorting</strong>: iedereen in Nederland die werkt of inkomsten uit een onderneming heeft krijgt arbeidskorting.
+          Arbeidskorting is een extra compensatie bovenop de algemene heffingskorting voor werkenden.
+          De schalen vind je
+          <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/inkomstenbelasting/heffingskortingen_boxen_tarieven/heffingskortingen/arbeidskorting/arbeidskorting" target="_blank">
+           hier</a>. <br /> <br />
+          </li>
+          <li>
+          <strong>Netto Jaarsalaris</strong>: het netto salaris ten slotte is simpelweg alle vier de voorgaande bedragen bij elkaar opgeteld.
+          Dus het bruto jaarsalaris minus loonheffing plus algemene heffingskorting en arbeidskorting.
+          Er zijn allerlei uitzonderingen op deze simpele rekensom voor mensen met een AOW of werkelozen.
+          Deze website gaat echter uit van een simpele, standaard situatie. <br /> <br />
+          </li>
+        </ul>
+        </p>
+        <br />
+      </div>
+    </div><!--/.container-->
+</section><!--/about-us-->

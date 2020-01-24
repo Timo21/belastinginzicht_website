@@ -1,0 +1,36 @@
+<section id="toeslagen">
+    <div class="container">
+      <div class="center wow fadeInDown">
+        <div ng-controller = "PlotCtrlr">
+          <p class = "lead">
+          Groot econoom John Maynard Keynes <a href="http://www.econ.yale.edu/smith/econ116a/keynes1.pdf" target="_blank">
+          schreef in 1930 al</a> dat we gezien de te verwachten groei van de economie inmiddels niet meer
+          dan 15 uur per week hadden moeten werken. Helaas bleek Keynes geen gelijk te hebben en groeide naast onze mogelijkheden om productie
+          meer en meer te automatiseren ook onze onverzadigbare consumptie en werken we ons dus achterover.<br /><br />
+
+          Toch vragen steeds meer mensen zich af of ze wel 40 uur per week moeten en willen werken. Of het nou is omdat je kinderen krijgt,
+          er een <a href="https://decorrespondent.nl/gratisgeld" target="_blank"> goed boek </a> over hebt gelezen,
+          of een <a href="http://www.bbc.com/capital/story/20171204-the-compelling-case-for-working-a-lot-less" target="_blank">
+          kort artikeltje</a>, het roept altijd een aantal vragen op. Over hoe je je tijd en leven wil besteden bijvoorbeeld,
+          maar ook een logische hele platte vraag:
+          </p>
+          <p class="why-questions">
+          Hoeveel minder ga ik eigenlijk verdienen als ik minder ga werken?
+          </p>
+          <p class = "lead">
+          Die laatste vraag, daar helpt deze pagina je bij. Vul onderstaand je bruto jaarinkomen in en bekijk in de figuur hoeveel je bruto, netto en heffingen veranderen
+          voor verschillende werkweken tussen de 40 en 8 uur. Beschrijvingen van bruto en netto jaarinkomen en de verschillende heffingen vind je op de loon tab.
+          </p>
+          <div class="input-div">
+            <label for="minderwerken-input"> Wat is je brutojaarsalaris? </label>
+            <div class="flex">
+              <span class="currency">€</span>
+              <input id="minderwerken-input" type="text" ng-model='brutojaarsalaris_minder_werken'>
+            </div>
+          </div>
+          <br />
+          <minder-uren-plot width=1200, height = 600></minder-uren-plot>
+        </div>
+      </div>
+    </div>
+</section><!--/about-us-->
